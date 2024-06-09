@@ -1,2 +1,2 @@
 # Vrinda-Store-Data-Analysis
-This is aexcel dashboard project. 
+This is a excel dashboard project. 
